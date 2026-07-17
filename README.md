@@ -1,5 +1,5 @@
 <h1 align="center">Pedro Santos - Backend developer</h1>
-<h5 align="center">Focado em me desenvolver profissionalmente e melhorar minhas habilidades em Node JS, API REST e Backend no geral</h5>
+<p align="center">Focado em me desenvolver profissionalmente e melhorar minhas habilidades em Node JS, API REST e Backend no geral</p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/14364716-273d-4372-9fc4-010a1baedf56" alt="Preview" width="640">
 </p>
