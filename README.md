@@ -1,5 +1,5 @@
-<p align="center">
-## Hi there 👋
+<p align="center" ##>
+Pedro Cunha 👋
 </p>
 <!--
 <p align="center">
