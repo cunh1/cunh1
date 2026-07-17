@@ -1,5 +1,7 @@
 ## Hi there 👋
-**<img width="640" height="360" alt="Image" src="https://github.com/user-attachments/assets/14364716-273d-4372-9fc4-010a1baedf56" />**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/14364716-273d-4372-9fc4-010a1baedf56" alt="Preview" width="640">
+</p>
 <div style="display: inline_block"><br>
   <img align="center" alt="Cunha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Cunha-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
