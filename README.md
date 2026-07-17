@@ -1,6 +1,4 @@
-<p align="center" style="font-size: 30px;">
-Pedro Cunha 👋
-</p>
+<h1 align="center">Pedro Cunha 👋</h1>
 <!--
 <p align="center">
   <img src="https://github.com/user-attachments/assets/14364716-273d-4372-9fc4-010a1baedf56" alt="Preview" width="640">
