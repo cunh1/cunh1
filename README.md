@@ -4,7 +4,7 @@
   <img src="https://github.com/user-attachments/assets/14364716-273d-4372-9fc4-010a1baedf56" alt="Preview" width="640">
 </p>
 <h1 align="center">Linguagens</h1>
-<p align="center">Aqui estão as linguagens que eu programo, mas atualmente focado em me desenvolver em Javascript de <br>forma geral e principalmente Node</p>
+<p align="center">Aqui estão as linguagens que eu programo, mas atualmente focado em me desenvolver em Javascript de <br>forma geral e principalmente Node e Typescript</p>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Cunha-Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Cunha-Ts" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -13,7 +13,7 @@
   <img align="center" alt="Cunha-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 <h1 align="center">Contact me</h1>
-<p align="center">Estou aberto para conversas e parcerias e aqui estão meus principais meios de contato</p>
+<p align="center">Estou aberto para conversas e parcerias, creio que aprender é a melhor forma de evoluir.<br>Aqui estão meus principais meios de contato</p>
 <div> 
   <p align="center">
   <a href = "mailto:pedrocunha.dev2024@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
