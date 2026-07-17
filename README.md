@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/14364716-273d-4372-9fc4-010a1baedf56" alt="Preview" width="640">
 </p>
+<h1 align="center">Focado em me desenvolver profissionalmente e melhorar minhas habilidades em Node JS, API REST e Backend no geral</h1>
 <br><div style="display: inline_block" align="center"><br>
   <img align="center" alt="Cunha-Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Cunha-Ts" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
