@@ -1,4 +1,4 @@
-<p align="center" style="font-size:15px;">
+<p align="center" style="font-size: 30px;">
 Pedro Cunha 👋
 </p>
 <!--
