@@ -1,4 +1,4 @@
-<h1 align="center">Pedro Cunha 👋</h1>
+<h1 align="center">Pedro Santos - Backend developer</h1>
 <!--
 <p align="center">
   <img src="https://github.com/user-attachments/assets/14364716-273d-4372-9fc4-010a1baedf56" alt="Preview" width="640">
