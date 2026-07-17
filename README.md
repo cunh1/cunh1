@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  ## Hi there 👋
+</p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/14364716-273d-4372-9fc4-010a1baedf56" alt="Preview" width="640">
 </p>
