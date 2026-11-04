@@ -98,7 +98,7 @@ Estou aberto a oportunidades, conversas, networking e parcerias envolvendo tecno
 
 Acredito que compartilhar conhecimentos e trocar experiências são ótimas formas de crescer profissionalmente.
 
-<p align="center">
+<p align="left">
   <a href="mailto:pedrocunha.dev2024@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
@@ -106,16 +106,7 @@ Acredito que compartilhar conhecimentos e trocar experiências são ótimas form
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-
 <p align="center">
-  <i>"A jornada é tão importante quanto o destino. Sempre evoluindo, um passo de cada vez."</i>
-</p>
-  <a href="https://www.linkedin.com/in/pedro-henrique-cunha-dos-santos-053b9a2b1/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
-
-<p align="center">
-  <i>"A jornada é tão importante quanto o destino. Sempre evoluindo, um passo de cada vez."</i>
+  <i>"Sempre evoluindo, um passo de cada vez."</i>
 </p>
 
