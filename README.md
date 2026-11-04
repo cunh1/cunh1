@@ -5,13 +5,13 @@
 </p>
 <h1 align="center">Linguagens</h1>
 <p align="center">Aqui estão as linguagens que eu programo, mas atualmente focado em me desenvolver em Javascript de <br>forma geral e principalmente Node e Typescript</p>
-<div style="display: inline_block" align="center"><br>
+<!--<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Cunha-Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Cunha-Ts" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Cunha-Node" height="50" width="40" src="https://raw.githubusercontent.com/gui-bus/TechIcons/e5029425523ca01c87d1ba36575b2d4a374dbc93/Dark/NodeJS.svg">
   <img align="center" alt="Cunha-HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cunha-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+</div>-->
 <h1 align="center">Contact me</h1>
 <p align="center">Estou aberto para conversas e parcerias, creio que aprender é a melhor forma de evoluir.<br>Aqui estão meus principais meios de contato</p>
 <div> 
