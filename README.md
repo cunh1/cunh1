@@ -94,7 +94,3 @@ Acredito que compartilhar conhecimentos e trocar experiências são ótimas form
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-<p align="center">
-  <i>"Sempre evoluindo, um passo de cada vez."</i>
-</p>
-
