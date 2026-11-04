@@ -1,5 +1,5 @@
 <p align="center">
-  # Pedro Santos | Backend Developer
+  <h1>Pedro Santos | Backend Developer</h1>
 </p>
 <h3 align="center">
   Desenvolvedor em constante evolução, apaixonado por tecnologia e pela construção de soluções através da programação.
