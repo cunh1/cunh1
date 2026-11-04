@@ -1,6 +1,6 @@
 # Pedro Santos | Backend Developer
 
-<h3 align="center">
+<h3 align="left">
   Desenvolvedor em constante evolução, apaixonado por tecnologia e pela construção de soluções através da programação.
 </h3>
 
