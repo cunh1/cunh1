@@ -11,7 +11,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 Olá! Sou Pedro Santos, desenvolvedor com foco em Backend e atualmente direcionando meus estudos e projetos para o ecossistema JavaScript.
 
@@ -21,21 +21,11 @@ Gosto de aprender na prática, explorar novas tecnologias e transformar conhecim
 
 Atualmente, meu principal objetivo é aprofundar meus conhecimentos em **Node.js, Express, JavaScript e TypeScript**, desenvolvendo aplicações Backend cada vez mais completas, eficientes e bem estruturadas.
 
-### 🚀 Atualmente focado em:
-
-- Desenvolvimento Backend com **Node.js e Express**.
-- Construção e integração de **APIs REST**.
-- JavaScript e TypeScript aplicados ao desenvolvimento de aplicações.
-- Integração, modelagem e manipulação de bancos de dados.
-- Autenticação, autorização e controle de permissões.
-- Boas práticas, organização de código e arquitetura de aplicações.
-- Aprimoramento contínuo através de projetos práticos.
-
 ---
 
-## 🛠️ Tecnologias e conhecimentos
+## Tecnologias e conhecimentos
 
-### ⚡ Backend & JavaScript
+### Backend & JavaScript
 
 <p>
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -44,14 +34,14 @@ Atualmente, meu principal objetivo é aprofundar meus conhecimentos em **Node.js
   <img src="https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
 </p>
 
-### 🗄️ Bancos de dados
+### Bancos de dados
 
 <p>
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
 </p>
 
-### 💻 Frontend & conhecimentos complementares
+### Frontend & conhecimentos complementares
 
 <p>
   <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
@@ -60,7 +50,7 @@ Atualmente, meu principal objetivo é aprofundar meus conhecimentos em **Node.js
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
-### 🔧 Outras linguagens
+### Outras linguagens
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -72,7 +62,7 @@ Atualmente, meu principal objetivo é aprofundar meus conhecimentos em **Node.js
 
 ---
 
-## 📌 Objetivos
+## Objetivos
 
 Quero continuar evoluindo como desenvolvedor, aprofundando meus conhecimentos em Backend e construindo projetos que demonstrem minha capacidade de desenvolver soluções completas.
 
@@ -80,7 +70,7 @@ Tenho como objetivo me tornar um profissional cada vez mais preparado para lidar
 
 ---
 
-## 📫 Entre em contato
+## Entre em contato
 
 Estou aberto a oportunidades, conversas, networking e parcerias envolvendo tecnologia e desenvolvimento de software.
 
