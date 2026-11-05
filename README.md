@@ -1,10 +1,6 @@
 <h1 align="center">
   Pedro Cunha | Backend Developer
 </h1>
-<h3 align="center">
-  Desenvolvedor em constante evolução
-</h3>
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/14364716-273d-4372-9fc4-010a1baedf56" alt="Thorfinn" width="640">
 </p>
