@@ -1,5 +1,5 @@
 <h1 align="center">
-  Pedro Santos | Backend Developer
+  Pedro Cunha | Backend Developer
 </h1>
 <h3 align="center">
   Desenvolvedor em constante evolução, apaixonado por tecnologia e pela construção de soluções através da programação.
@@ -13,7 +13,7 @@
 
 ## Sobre mim
 
-Olá! Sou Pedro Santos, desenvolvedor com foco em Backend e atualmente direcionando meus estudos e projetos para o ecossistema JavaScript.
+Olá! Sou Pedro Cunha, desenvolvedor com foco em Backend e atualmente direcionando meus estudos e projetos para o ecossistema JavaScript.
 
 Tenho interesse em entender como as aplicações funcionam por trás das interfaces, desde a construção de APIs até a comunicação com bancos de dados, organização de código, autenticação e regras de negócio.
 
